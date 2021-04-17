@@ -3,7 +3,7 @@ title: "YUYAO FIGHTING"
 output: revealjs::revealjs_presentation
 ---
 
-## OMG TW
+## OMG TT
 
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
